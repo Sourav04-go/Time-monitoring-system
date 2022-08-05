@@ -1,0 +1,2 @@
+# Time-monitoring-system
+The manual timetable scheduling demands considerable time and effort along with lots of paperwork using HTML5, CSS, Php, javascript , mysql.So, we propose to develop a web-based application that will be a central repository of the whole University’s management system through which students and faculties can manage their own time table. To design a Faculty portal where the faculty can select the subject and room according to his/her own choice of time and access their time table
