@@ -24,12 +24,10 @@ Search timetable :
 
 *********************Software Requirements *****************
 HTML5 CSS3 JAVASCRIPT PHP MYSQL
-![Screenshot (30)](https://user-images.githubuserconte![Screenshot (147)](https://user-images.githubusercontent.com/80741177/183066024-54fe1311-80bf-4090-a378-495d1b02d534.png)
-nt.com/80741177/183065611-4edd000f-9acb-4147-9ec4-39ee89140b29.png)
-
-![Screenshot (26)](https://user-images.githubusercontent.com/80741177![Screenshot (28)](https://user-images.githubusercontent.com/80741177/183065599-9c1f4615-3bd0-4d4f-8ff4-a010ab731b7b.png)
-/183065565-5e76216c-f81d-4f13-81ff-cc17d3dc3ccf.png)![Screenshot (27)](https://user-images.githubusercontent.com/80741177/183065578-56d921b4-1df1-4395-bc6f-6a61f9472e00.png)
 
 
 
+![Screenshot (27)](https://user-images.githubusercontent.com/80741177/183066508-fc220177-8607-45ed-9d92-3f0271153328.png)
 
+
+![Screenshot (147)](https://user-images.githubusercontent.com/80741177/183066411-87b0d0c0-3d42-4030-a3c0-0ddbbbc8b639.png)
